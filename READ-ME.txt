@@ -1,0 +1,24 @@
+Developed by : Ahamed Khan
+email : a.ahamedkhan@gmail.com
+Date : 21/07/2016
+Version : 1.0
+
+Platform : Linux/Mac/Windows
+
+Initial setup assumptions:
+
+- Internet connectivity
+- Vagrant installed from https://www.vagrantup.com/downloads.html
+- Virtualbox installed from https://www.virtualbox.org/wiki/Download_Old_Builds_5_0
+
+Steps involved:
+
+- Extract the zip file to a folder
+- navigate into the folder in command prompt/shell
+- Command : vagrant up
+- Access the site using a browser on http://192.168.33.20:8080/
+
+
+
+
+
